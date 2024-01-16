@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  background-color: #000;
+}
+
+p {
+  font-size: 40px;
+  font-family: Impact;
+  -webkit-background-clip: text;
+  background-image: url("mech.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  color: transparent;
+  text-transform: uppercase;
+  text-align: justify;
+  overflow: hidden;
+  line-height: 0.8;
+  letter-spacing: 0.5px;
+  font-weight: 900;
+}

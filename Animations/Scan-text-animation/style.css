@@ -1,0 +1,38 @@
+body {
+  background-color: #000;
+}
+h2 {
+  position: relative;
+  font-size: 5rem;
+  font-family: sans-serif;
+  -webkit-text-stroke: 0.3vw #383d52;
+  text-transform: uppercase;
+}
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h2::before {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  color: #4fed51;
+  -webkit-text-stroke: 0vw #383d52;
+  border-right: 2px solid #4fed51;
+  overflow: hidden;
+  animation: animate 6s linear infinite;
+  -webkit-animation: animate 6s linear infinite;
+}
+@keyframes animate {
+  0% {
+    width: 0;
+  }
+  70% {
+    width: 100%;
+  }
+}

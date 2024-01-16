@@ -1,0 +1,99 @@
+body{
+	margin: 0;
+	overflow: hidden;
+}
+.candle{
+	height: 100vh;
+	background: #000;
+	padding-top: 20%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.fire{
+	width: 50px;
+	position: relative;
+	height: 100px;
+	margin-left: -45px;
+}
+.fire1{
+	width: 50px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	height: 100px;
+	background: #fcf3a5;
+	border-radius: 0 100%;
+	transform: rotate(20deg);
+	transform-origin: bottom right;
+	filter: drop-shadow(0 0 40px #ffdc42);
+	animation: anim1 5s linear infinite;
+}
+.fire2{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 25px;
+	height: 60px;
+	background: #ffd932;
+	border-radius: 0 100%;
+	transform: rotate(-10deg);
+	transform-origin: bottom right;
+	filter: drop-shadow(0 0 5px #ffd932);
+	animation: anim2 4s linear infinite;
+	animation-delay: 0.5s;
+}
+.fire3{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 15px;
+	height: 25px;
+	background: #7fa5ff;
+	border-radius: 0 100%;
+	transform-origin: bottom right;
+	filter: drop-shadow(0 0 15px #7fa5ff);
+	animation: anim3 2s linear infinite;
+	animation-delay: 1s;
+}
+@keyframes anim1{
+	0%{
+		transform: rotate(30deg) scale(1.1);
+	}
+	50%{
+		transform: rotate(20deg);
+	}
+	100%{
+		transform: rotate(30deg) scale(1.1);
+	}
+}
+@keyframes anim2{
+	0%{
+		transform: rotate(-5deg) scale(1.1);
+	}
+	50%{
+		transform: rotate(-10deg);
+	}
+	100%{
+		transform: rotate(-5deg) scale(1.1);
+	}
+}
+@keyframes anim3{
+	0%{
+		transform: rotate(0deg) scale(1.1);
+	}
+	50%{
+		transform: rotate(5deg);
+	}
+	100%{
+		transform: rotate(0deg) scale(1.1);
+	}
+}
+.wax{
+	width: 50px;
+	height: 80px;
+	background: #ffffdf;
+	border-radius: 10px 10px 0 0;
+}
+/* https://t.me/muhammadzohid_11 */
+/* @css_animation */

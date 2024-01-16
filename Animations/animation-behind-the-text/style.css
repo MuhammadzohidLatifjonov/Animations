@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #333;
+  overflow-y: hidden;
+}
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 300px;
+  background-image: url("mech1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 0.9;
+  color: transparent;
+  letter-spacing: 9px;
+  -webkit-text-stroke: 2.5px #fff;
+  -webkit-background-clip: text;
+  animation: animate 14s linear infinite;
+  font-family: Impact;
+}
+@keyframes animate {
+  10% {
+    background-image: url("mech1.jpg");
+  }
+  40% {
+    background-image: url("mech2.jpg");
+  }
+  70% {
+    background-image: url("mech3.jpg");
+  }
+  100% {
+    background-image: url("mech4.jpg");
+  }
+}
