@@ -25,6 +25,40 @@
   <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/6c10d512-d923-41db-8e6c-c1322a394395">
 </a>
 
+- Loader 1 🔃
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/Loader-1">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/197ae97d-7e05-4e68-bf7d-6497afe896a0">
+</a>
+
+- Loader 2 🔃
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/Loader-2">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/0af71dbc-6c47-46d1-bc33-aa656d6bb61d">
+</a>
+
+- Neon Button
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/Neon-button">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/7032a82e-80f1-4c12-8d54-2780b33466df">
+</a>
+
+- Yer sayyorasi
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/Planet-earth-animation">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/4adbcf48-7793-4efd-bb05-4c56a6de979a">
+</a>
+
+- Raketa uchishi 🚀
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/Rocket-animation">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/4bfd1f6f-6bf7-4a4c-9ae8-203cca8a2ca1">
+</a>
+
+- Raketa uchishi 2 🚀
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/Rocket_animation_2">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/03becb9f-b31f-4777-a5e2-5b992a23f303">
+</a>
+
+- Tekstni skaner qilish
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/Scan-text-animation">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/ee3232bb-b3f5-4421-b948-7a57f80296f0">
+</a>
 
 
 
