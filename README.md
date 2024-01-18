@@ -60,8 +60,10 @@
   <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/ee3232bb-b3f5-4421-b948-7a57f80296f0">
 </a>
 
-
-
+- Tekst ortidagi animatsiya
+<a href="https://github.com/MuhammadzohidLatifjonov/Animations/tree/main/Animations/animation-behind-the-text">
+  <img width="600px" src="https://github.com/MuhammadzohidLatifjonov/Animations/assets/142134610/8992e155-d78a-4e72-a92c-8b918fccedd3">
+</a>
 
 
 
